@@ -18,7 +18,7 @@ https://drive.google.com/drive/folders/1VP_0gjAJgW3iL_PXscZEqc8M06Wm3K0K?usp=sha
 
 ## Model File
 The trained model (`vegetable_model.h5`) is too large to upload to GitHub.  
-You can download it from Google Drive here: [Download Model](https://drive.google.com/file/d/1PijOtBii2_tsBCdTCYBjh05wlKiQTDvY/view?usp=sharing)
+You can download it from Google Drive here: [Download Model](https://drive.google.com/file/d/1qimAWyEgQ2Wipc4Sv3AmvuCjmRmbYMNf/view?usp=sharing)
 
 
 ## Project Demo
