@@ -14,8 +14,7 @@ Vegetable classification web app using TensorFlow and Flask.
 
 The dataset used for this project is available at the link below:
 
- https://drive.google.com/drive/folders/1ds_H9tCsR-g-1CXRdoUufX9XyVRfwU2v?usp=sharing
-
+https://drive.google.com/drive/folders/1VP_0gjAJgW3iL_PXscZEqc8M06Wm3K0K?usp=sharing
 
 ## Model File
 The trained model (`vegetable_model.h5`) is too large to upload to GitHub.  
