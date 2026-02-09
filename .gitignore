@@ -1,0 +1,11 @@
+# Large files
+*.h5
+dataset/
+
+
+venv/
+*.h5
+*.pyc
+__pycache__/
+dataset/
+git add .
