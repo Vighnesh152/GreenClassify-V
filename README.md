@@ -25,5 +25,5 @@ You can download it from Google Drive here: [Download Model](https://drive.googl
 
 Demo video link:
 
-https://drive.google.com/file/d/1Z4Y8iglNeIPdjss1--t980_0C7ocqut9/view?usp=sharing
+https://drive.google.com/file/d/1A2EeKWbYUP15MRoQcr8YLLBjRlj13Nnn/view?usp=sharing
 
